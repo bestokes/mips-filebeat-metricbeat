@@ -1,2 +1,3 @@
 # mips-filebeat-metricbeat
-Compiled mips64 binaries for elastic filebeat and metricbeat
+Static mips64 binaries for elastic filebeat and metricbeat.
+Suitable for ubiquiti usg
